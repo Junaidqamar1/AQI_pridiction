@@ -28,5 +28,5 @@ This project aims to predict the Air Quality Index (AQI) using pollutant and met
 5. **Execution**
    Run the Python script:
    ```bash
-   python aqi_prediction.py
+   python Aqi-predict.py
 
